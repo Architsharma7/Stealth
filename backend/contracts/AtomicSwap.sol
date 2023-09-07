@@ -1,7 +1,7 @@
-// SPDX-License-Identifier: Apache-2.0
-pragma solidity ^0.8.17;
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.19;
 
-contract AcuityAtomicSwap {
+contract AtomicSwap {
 
     /**
      * @dev Mapping of lockId to value stored in the lock.
